@@ -1,9 +1,7 @@
-!!!Warning!!!   Flying drone autonomously always has a risk.
-                Please make sure to have a manual override ready to take control of the drone during any of test flights.
-
+Yes, we won the competition! Here is the drone performance video from the competition: https://youtu.be/lTXVziEVrIc
 
 Make sure the drone's parameter are set respectively from the mission planner before your first test flight.
-Tune your drone using tuning instructions from ardupilot.
+Tune your drone using tuning instructions from ardupilot. Be sure to properly tune the settings in Mission Planner by following instructions given on ArduCopeter as per propeller size.
 
 
 
