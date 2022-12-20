@@ -1,7 +1,7 @@
 Yes, we won the competition! Here is the drone performance video from the competition: https://youtu.be/lTXVziEVrIc
 
 Make sure the drone's parameter are set respectively from the mission planner before your first test flight.
-Tune your drone using tuning instructions from ardupilot. Be sure to properly tune the settings in Mission Planner by following instructions given on ArduCopeter as per propeller size.
+Tune your drone using tuning instructions from ardupilot. Be sure to properly tune the settings in Mission Planner by following instructions given on ArduCopeter as per propeller size. Here are more details about the tuning process: https://ardupilot.org/copter/docs/tuning-process-instructions.html 
 
 
 
